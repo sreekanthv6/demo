@@ -1,13 +1,9 @@
 {
-  "users": [
-    { "id": 1, "emailid": "allstate@gmail.com","password":"1234" },
-    { "id": 2, "emailid": "ss@gmail.com","password":"1234" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users":
+  [
+    { "name": "Sree", "emailid": "allstate@gmail.com","password":"1234" }
+  
+  ]
+  
+  
 }
